@@ -8,6 +8,6 @@ int main() {
     if (str[len - 3] == 's' && str[len - 2] == 'a' && str[len - 1] == 'n') {
         printf("Yes\n");
     }else {
-        printf("NO\n");
+        printf("No\n");
     }
 }
